@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "50327389944",
+    "firebase_url": "https://ghsyllabusapp.firebaseio.com",
+    "project_id": "ghsyllabusapp",
+    "storage_bucket": "ghsyllabusapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50327389944:android:306f3bcc85948cbaf4dd0d",
+        "android_client_info": {
+          "package_name": "com.novoda.bonfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50327389944-i4k9g07tqsnictv4vs1qid9vu818f55p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbN89hXFzl0ioVfQvqOsOK8N5HzkNgdDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50327389944-i4k9g07tqsnictv4vs1qid9vu818f55p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50327389944:android:1aa13e014f7cc648",
+        "android_client_info": {
+          "package_name": "gh.sammie.ghsyllabusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50327389944-c0u1kqhccen92ng956s19gf2520gsfm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gh.sammie.ghsyllabusapp",
+            "certificate_hash": "d9b42785f5db4fea7bbd8b15674d349d892deaa5"
+          }
+        },
+        {
+          "client_id": "50327389944-i4k9g07tqsnictv4vs1qid9vu818f55p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbN89hXFzl0ioVfQvqOsOK8N5HzkNgdDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50327389944-i4k9g07tqsnictv4vs1qid9vu818f55p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50327389944:android:f352d5d36c359b62f4dd0d",
+        "android_client_info": {
+          "package_name": "info.devexchanges.firebasechatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50327389944-i4k9g07tqsnictv4vs1qid9vu818f55p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbN89hXFzl0ioVfQvqOsOK8N5HzkNgdDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50327389944-i4k9g07tqsnictv4vs1qid9vu818f55p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
